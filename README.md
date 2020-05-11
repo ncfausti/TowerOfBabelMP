@@ -17,3 +17,6 @@ To Start:
 on CLIENT 2 click wait for game session to load in list above, click refresh if needed,
  then click join.
 
+Controls:
+![](Content/Assets/Images/controls.jpg)
+
